@@ -18,7 +18,7 @@
 Hi! I'm **Usman (musman079)**, a passionate developer with a knack for building scalable full-stack solutions, automating workflows, and collaborating on open-source.  
 I love transforming ideas into products, working with modern tech, and helping others learn.
 
-- 💼 Currently working on: **Ecommerce Store**, **URL Shortener API**
+- 💼 Currently working on: **Ecommerce Store**
 - 🧠 Learning: Advanced backend, cloud infra, scalable APIs
 - 🤝 Open to collaborations on web, API, and automation projects
 - 🏆 Hackathon winner | Open-source contributor | Code mentor
