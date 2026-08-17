@@ -1,105 +1,61 @@
-<!-- Profile README for @musman079 | Enhanced by Copilot -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,23&height=200&section=header&text=Muhammad%20Usman&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20MERN%20Developer%20%7C%20Next.js%20Architect%20%7C%20Fiverr%20Level-1%20Seller&descFontSize=16" width="100%"/>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=10E7F1&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Usman+%F0%9F%91%8B;Full-Stack+Developer+%7C+Open+Source+Contributor;Building+cool+things+with+code+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=500&lines=Full-Stack+MERN+Engineer;Next.js+15+%26+React+19+Architect;Fiverr+Level-1+Top+Rated+Seller;Designing+Scalable+REST+APIs" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="center">
-  <a href="https://github.com/musman079"><img src="https://img.shields.io/github/followers/musman079?label=Followers&style=social" /></a>
-  <a href="mailto:usmankousar772@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/_usman79?t=-SOVUfdUlmT5Hv_OFBuiog&s=09"><img src="https://img.shields.io/twitter/follow/_usman79?label=Twitter&style=social" /></a>
-  <a href="http://www.linkedin.com/in/musman78"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-</p>
+<br/>
 
----
-
-## 👨‍💻 About Me
-
-Hi! I'm **Usman (musman079)**, a passionate developer with a knack for building scalable full-stack solutions, automating workflows, and collaborating on open-source.  
-I love transforming ideas into products, working with modern tech, and helping others learn.
-
-- 💼 Currently working on: **Ecommerce Store**
-- 🧠 Learning: Advanced backend, cloud infra, scalable APIs
-- 🤝 Open to collaborations on web, API, and automation projects
-- 🏆 Hackathon winner | Open-source contributor | Code mentor
-- 🎯 Fun fact: I can build a full-stack MVP in a weekend!
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,mongodb,postgres,docker,git,github,vercel,heroku,figma" />
-</p>
-
-- **Frontend:** React, Next.js, TypeScript, Tailwind  
-- **Backend:** Node.js, Express, Python  
-- **DBs:** PostgreSQL, MongoDB  
-- **DevOps:** Docker, Vercel, Heroku, GitHub Actions  
-- **Other:** REST, GraphQL, JWT, WebSockets, CI/CD
+<div align="center">
+  <a href="https://www.fiverr.com/musman079">
+    <img src="https://img.shields.io/badge/Fiverr-Level%201%20Seller%20★5.0-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+  </a>
+  <a href="http://www.linkedin.com/in/musman78">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Usman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:usmankousar772@gmail.com">
+    <img src="https://img.shields.io/badge/Email-usmankousar772%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/923286596772">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B92%20328%206596772-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</div>
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech | Live/Repo |
-| ------- | ----------- | ---- | --------- |
-| 🛒 **[Ecommerce Store](https://github.com/mani78979/ecommerce-store)** | Modern e-commerce app with cart, checkout, and admin | Next.js, Node, MongoDB | [🔗 Repo](https://github.com/mani78979/ecommerce-store) |
-| 🔗 **[URL Shortener Backend](https://github.com/mani78979/codeAlpha_url-shortener-backend)** | Fast, secure URL shortening API | Node.js, Express, MongoDB | [🔗 Repo](https://github.com/mani78979/codeAlpha_url-shortener-backend) |
-| 📅 **[Event Registration](https://github.com/mani78979/CodeAlpha_Event_Registration)** | Event sign-up and management system | React, Node.js | [🔗 Repo](https://github.com/mani78979/CodeAlpha_Event_Registration) |
-| 💰 **[Expense Tracker](https://github.com/mani78979/expense-tracker)** | Track your expenses with charts & summary | React, Firebase | [🔗 Repo](https://github.com/mani78979/expense-tracker) |
-| 🤝 **[Whop_App](https://github.com/mharoon07/Whop_App)** | Collaboration & community project | React Native | [🔗 Repo](https://github.com/mharoon07/Whop_App) |
+### 👨‍💻 About Me
+- 🔭 Working on **Full-Stack MERN & Next.js 15 Applications**
+- 🌟 **Level-1 Freelancer on Fiverr** with **5.0★ rating** across global clients (USA, UK, Germany, etc.)
+- ⚡ Specializing in **REST APIs, JWT Authentication, MongoDB Optimization & Pixel-Perfect React/Tailwind UI**
+- 🎓 BS in **Computer Science** (2021 — 2025)
 
 ---
 
-## 📈 GitHub Stats & Achievements
+### 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=musman079&theme=github_dark" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=musman079&theme=dark&hide_border=true" />
-  <img src="https://github-profile-trophy.vercel.app/?username=musman079&theme=onestar&margin-w=5&margin-h=10" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=musman079&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musman079&layout=compact&theme=radical" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,tailwind,redux,firebase,flutter,git,github,postman,vscode,figma,vercel" />
+</div>
 
 ---
 
-## 🏅 Milestones & Goals
+### 📊 GitHub Analytics
 
-- 🚀 Launch next SaaS project  
-- 🛡️ Implement advanced auth & security  
-- 📚 Publish tutorials on scalable APIs  
-- 👨‍🎓 Mentor new devs & contribute to open source  
-- 💡 Explore AI/ML for web apps
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=musman079&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=0ea5e9&text_color=ffffff" alt="Usman's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musman079&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f59e0b&text_color=ffffff" alt="Top Languages" width="48%" />
+</div>
 
----
-
-## 📫 Connect with Me
-
-<p align="left">
-  <a href="mailto:usmankousar772@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/_usman79?t=-SOVUfdUlmT5Hv_OFBuiog&s=09"><img src="https://img.shields.io/twitter/follow/_usman79?label=Twitter&style=social" /></a>
-  <a href="http://www.linkedin.com/in/musman78"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musman079&theme=radical&hide_border=true&background=0d1117&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b" alt="GitHub Streak" width="97%" />
+</div>
 
 ---
 
-## ⚡ Fun & Extras
-
-- 🏆 GitHub Trophies  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=musman079&theme=onedark)
-- 👁️ Visitors  
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=musman079.musman079)
-- 🎮 Coding streaks, fun facts, and more coming soon!
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Programming Quote" />
-</p>
-
----
-
-> *Thanks for visiting! Feel free to connect and let's build something awesome together!* 🚀
+<div align="center">
+  <sub>Let's build something exceptional together! 🚀</sub>
+</div>
